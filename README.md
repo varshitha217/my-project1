@@ -1,8 +1,4 @@
 # my-project1
-Got it — you’re talking about the **Expense Tracker** project we just worked on.
-Here’s a clean **README.md** text you can directly use for the GitHub repository:
-
----
 
 # 💰 Expense Tracker
 
@@ -77,4 +73,3 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-If you want, I can also make a **professional GitHub repo structure with code + README** so you can just upload it.
